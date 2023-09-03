@@ -1,6 +1,9 @@
 # Days-till-Maturita
 Simple way of counting days to something important
 
+# Running in console
+python menubar.py
+
 # Creating .app
 Delete build and dist folders (if exists)
 python setup.py py2app
