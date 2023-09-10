@@ -11,6 +11,9 @@ You can install release
 ## Start on boot
 Use this tutorial by apple [How to start on boot](https://support.apple.com/en-gb/guide/mac-help/mh15189/mac)
 
+## Images
+![Image](https://github.com/matyash12/Days-till-Maturita/blob/b15de10416409f094efdf5e1499a980631529f5b/readme_images/menubar.png)
+![Image](https://github.com/matyash12/Days-till-Maturita/blob/b15de10416409f094efdf5e1499a980631529f5b/readme_images/set_target_date.png)
 
 
 # Development
