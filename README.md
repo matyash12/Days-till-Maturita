@@ -21,8 +21,8 @@ Use this tutorial by apple [How to start on boot](https://support.apple.com/en-g
 `python menubar.py`
 
 ## Creating .app
-Delete build and dist folders (if exists)
-python setup.py py2app
+* Delete build and dist folders (if exists)
+* `python setup.py py2app`
 
 ## What is used
 * Rumps [link](https://github.com/jaredks/rumps)
