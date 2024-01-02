@@ -18,7 +18,8 @@ Use this tutorial by apple [How to start on boot](https://support.apple.com/en-g
 
 # Development
 ## Running in console
-`python menubar.py`
+* `pip install rumps`
+* `python menubar.py`
 
 ## Creating .app
 * Delete build and dist folders (if exists)

@@ -49,7 +49,6 @@ class MaturitaStatusBarApp(rumps.App):
         
         rumps.alert(
             title="Start on startup",
-            #TODO have some button to click on..
             message="To start on startup follow apple help: https://support.apple.com/en-gb/guide/mac-help/mh15189/mac",
             icon_path='icon.icns',
         )
