@@ -1,6 +1,10 @@
 # Days-till-Maturita
 Simple way of counting days to something important
 
+## App not starting?
+* Try to move it to 'Applications'
+* Open it using control + left click and then click open
+
 ## Features
 * Shows time till something like '21 days'
 * Has simple to use settings
